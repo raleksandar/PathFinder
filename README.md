@@ -12,3 +12,5 @@ Algorithm is implemented using Java's generics so it is map-agnostic. Which
 means that it should work with any map type (isometric, hexagonal, etc...).
 
 Demo (GUI) app is included which implements simple rectangular grid map.
+
+![PathFinder Demo Screenshot](PathFinder_Demo_Screenshot.png)
